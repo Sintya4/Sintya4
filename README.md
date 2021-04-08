@@ -31,4 +31,4 @@
 </p>
 
 
-![Discord](http://invidget.switchblade.xyz/rZ2Qa5wWFV
+![Discord](http://invidget.switchblade.xyz/rZ2Qa5wWFV)

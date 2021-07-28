@@ -4,7 +4,7 @@
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/740947753135243354.png" alt="Discord" /> </p>
+<p align="center"> <a href="https://dsc.gg/mincoder"><img src="https://discord.c99.nl/widget/theme-3/740947753135243354.png" alt="Discord" /></a> </p>
 
 
 

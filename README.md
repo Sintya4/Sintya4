@@ -20,7 +20,7 @@ I am a passionate self-taught programmer from Nepal and my hobby is to code.
 
 **Join My Discord:**&nbsp; 
 
-[![Server](https://img.shields.io/discord/790938885365563392?label=DGH%20BOT%20V2%20%7C%20%20Community%20Server&logo=discord&style=for-the-badge)](https://discord.gg/8matjVVsKS)
+[![Server](https://img.shields.io/discord/790938885365563392?label=DGH%20BOT%20V3%20%7C%20%20Community%20Server&logo=discord&style=for-the-badge)](https://discord.gg/8matjVVsKS)
 
 **My Avatar Discord:**&nbsp; 
 [![Avatar](https://discord.c99.nl/widget/theme-3/740947753135243354.png)](https://discord.gg/8matjVVsKS)

@@ -3,7 +3,7 @@
 
 I am a passionate self-taught programmer from Nepal and my hobby is to code.
  - 🌱 I’m currently learning React
-- 💬 Ask me about anything [here](https://dsc.gg/mincoder)
+- 💬 Ask me about anything [here](https://discord.gg/FBfymDfrpT)
 - 🥅 2021 Goals: make some awesome Discord Bots
 
 **Follow My Twitter:**&nbsp; 
@@ -20,10 +20,10 @@ I am a passionate self-taught programmer from Nepal and my hobby is to code.
 
 **Join My Discord:**&nbsp; 
 
-[![Server](https://img.shields.io/discord/790938885365563392?label=DGH%20BOT%20V3%20%7C%20%20Community%20Server&logo=discord&style=for-the-badge)](https://discord.gg/8matjVVsKS)
+[![Server](https://img.shields.io/discord/944516636726145024?label=DGH%20BOT%20V3%20%7C%20%20Community%20Server&logo=discord&style=for-the-badge)](https://discord.gg/FBfymDfrpT)
 
 **My Avatar Discord:**&nbsp; 
-[![Avatar](https://discord.c99.nl/widget/theme-3/740947753135243354.png)](https://discord.gg/8matjVVsKS)
+[![Avatar](https://discord.c99.nl/widget/theme-3/740947753135243354.png)](https://discord.gg/FBfymDfrpT)
 
 
 
